@@ -1,0 +1,17 @@
+Datasets conhecidos:
+
+1. https://snap.stanford.edu/data/web-Amazon.html
+
+2. https://archive.ics.uci.edu/datasets
+
+3. https://www.kaggle.com/datasets
+
+4. https://www.reddit.com/r/datascience/?rdt=45704
+
+5. https://portaldatransparencia.gov.br/
+
+6. https://opendata.bcb.gov.br/dataset
+
+7. https://dados.gov.br/home
+
+8. https://datasetsearch.research.google.com/
